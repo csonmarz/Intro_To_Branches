@@ -1,0 +1,19 @@
+integer numStrokes
+
+//Assumes 'par 4'
+if numStrokes<=0
+   Put "Invalid entry." to output
+   
+if numStrokes==1
+   Put " Hole in 1!" to output
+   
+if numStrokes==2
+   Put " Eagle! " to output
+   
+if numStrokes==3
+   Put "Birdie." to output  
+   
+if numStrokes==4
+   Put "Par." to output
+else 
+   Put "Better luck next time." to output

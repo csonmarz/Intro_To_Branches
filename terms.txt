@@ -1,0 +1,41 @@
+● Conditional Statement:
+Conditional Statement make decisions
+
+● Selection / Branch:
+A branch is a sequence of statements only 
+executed under a certain condition.
+
+● Decision:
+Decision is a term in programming which 
+determines a Statement
+
+
+● If-else:
+A decision and its two branches are often 
+called if-else branches
+
+● If-elseif branches:
+A series of decisions appear cascaded in each
+decision's false branch, known as if-elseif
+branches
+
+● Equality operator:
+An equality operator checks whether two 
+operand's values are the same(==)or 
+different(!=)
+
+● Boolean:
+an expression involving an equality operator 
+evaluates to a Boolean value. A Boolean is
+a type that has just two values: true or false
+
+● Nested branches:
+A branch's statements can include any valid 
+statements, uncluding another if-else branch, 
+known as nested branches.
+
+● Multiple if branches:
+In multiple if branches, each decision is 
+independent, and thus more than one branch 
+can execute, in contrast to the if-else-if
+arrangement where only one brnach can execute.
